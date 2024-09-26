@@ -11,4 +11,4 @@ Here are few glimpses:
 <img src="eg3.png" width="600" height="400">
 
 ### *Built using HTML, CSS, JavaScript*
-[Have a look!](https://muskanthakur-26.github.io/Healify/)
+[Have a look!](https://aman4for4.github.io/healify/)
